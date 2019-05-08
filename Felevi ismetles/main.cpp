@@ -12,7 +12,7 @@ int main()
     cin >> x;
     cin >> y;
     while (v[1]<y) {
-        i=i+1;
+        i++;
         v[i]=2*v[i-1]-v[i-2]+2;
     }
 
