@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571730409 source:d:\betti xi.b\labor 3-2019.10.22.\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+
