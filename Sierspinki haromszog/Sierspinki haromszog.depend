@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579757874 source:d:\betti xi.b\sierspinki haromszog\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+
