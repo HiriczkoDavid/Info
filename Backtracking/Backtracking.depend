@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580196285 source:d:\betti xi.b\backtracking\main.cpp
+	<math.h>
+	<time.h>
+	<iostream>
+
